@@ -1,0 +1,1 @@
+export { threadSort } from './ParallelSort';
