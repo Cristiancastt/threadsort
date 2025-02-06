@@ -9,7 +9,7 @@ A parallel sorting implementation that efficiently processes large datasets thro
 
 - ⚡ Fast (see benchmark) +(~)50% faster than native `Array.sort`
 - 🐦 Lightweight (~18kb)
-- 🩵 Written in TypeScript
+- ✏ Written in TypeScript
 - 📦 Zero dependencies
 - 🌐 Works in Node.js and browsers
 
