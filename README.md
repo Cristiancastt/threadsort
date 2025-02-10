@@ -43,7 +43,7 @@ mergeSort (native) - size 10000000: 7.488s
 Array.sort (native) - size 10000000: 2.876s
 
 threadsort (worker_threads) - size 100000000: 29.085s
-mergeSort (native) - size 100000000: - (to slow 💀)
+mergeSort (native) - size 100000000: - (too slow 💀)
 Array.sort (native) - size 100000000: 59.238s
 ```
 
